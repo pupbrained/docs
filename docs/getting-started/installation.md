@@ -72,7 +72,7 @@ See the alternatives below.
 </div>
 
 <div id="msdl-download">
-    <p>A download should soon be started, if not, <a id="msdl-download-link" href="about:blank">click here download the ISO</a>.</p>
+    <p>A download should soon be started, if not, <a id="msdl-download-link" href="about:blank">click here to download the ISO</a>.</p>
 </div>
 
 <input id="msdl-session-id" type="hidden">
